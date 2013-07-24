@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface orcaViewController : UIViewController
+- (IBAction)hello:(id)sender;
 
 @end
